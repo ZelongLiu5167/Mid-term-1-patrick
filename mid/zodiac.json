@@ -1,0 +1,379 @@
+{
+  "zodiac": [
+    {
+      "year": 1950,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 1951,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 1952,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 1953,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 1954,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 1955,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 1956,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 1957,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 1958,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 1959,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 1960,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 1961,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 1962,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 1963,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 1964,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 1965,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 1966,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 1967,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 1968,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 1969,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 1970,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 1971,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 1972,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 1973,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 1974,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 1975,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 1976,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 1977,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 1978,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 1979,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 1980,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 1981,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 1982,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 1983,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 1984,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 1985,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 1986,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 1987,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 1988,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 1989,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 1990,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 1991,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 1992,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 1993,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 1994,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 1995,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 1996,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 1997,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 1998,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 1999,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 2000,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 2001,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 2002,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 2003,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 2004,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 2005,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 2006,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 2007,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 2008,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 2009,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 2010,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 2011,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 2012,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    },
+    {
+      "year": 2013,
+      "animal": "Snake",
+      "explanation": "Snake won by strategy, hiding under the horse and surprising it at the last moment. It finished sixth, showcasing its intelligence and cunning."
+    },
+    {
+      "year": 2014,
+      "animal": "Horse",
+      "explanation": "Horse ran swiftly but was startled by the snake at the last minute. It finished seventh, demonstrating its strength and speed."
+    },
+    {
+      "year": 2015,
+      "animal": "Goat",
+      "explanation": "Goat moved patiently and steadily, cooperating with the monkey and rooster. It finished eighth, reflecting its gentle and calm nature."
+    },
+    {
+      "year": 2016,
+      "animal": "Monkey",
+      "explanation": "Monkey used its agility and intelligence to complete the race, working with the goat and rooster to secure the ninth place."
+    },
+    {
+      "year": 2017,
+      "animal": "Rooster",
+      "explanation": "Rooster is diligent and organized. It worked with the goat and monkey to finish tenth, demonstrating teamwork and perseverance."
+    },
+    {
+      "year": 2018,
+      "animal": "Dog",
+      "explanation": "Dog got distracted by a river and stopped to bathe, causing it to lose time. It finished eleventh, showing its playful and loyal nature."
+    },
+    {
+      "year": 2019,
+      "animal": "Pig",
+      "explanation": "Pig stopped to eat and nap during the race, causing it to finish last. Its laid-back and content personality reflects in its twelfth place."
+    },
+    {
+      "year": 2020,
+      "animal": "Rat",
+      "explanation": "Rat used its intelligence to ride on the ox's back and jumped ahead at the last moment, finishing first in the zodiac race."
+    },
+    {
+      "year": 2021,
+      "animal": "Ox",
+      "explanation": "Ox moved steadily and diligently but was overtaken by the clever rat at the last moment, securing the second place due to its hard work."
+    },
+    {
+      "year": 2022,
+      "animal": "Tiger",
+      "explanation": "Tiger is powerful and fast, but was overtaken by the clever rat and steady ox. Its determination and courage secured it the third place in the race."
+    },
+    {
+      "year": 2023,
+      "animal": "Rabbit",
+      "explanation": "Rabbit relied on agility and cleverness to overcome challenges. It finished fourth due to its quick wit and flexibility."
+    },
+    {
+      "year": 2024,
+      "animal": "Dragon",
+      "explanation": "Dragon could have taken first place, but it stopped to bring rain to help people, delaying its progress. It finished fifth, showing its benevolence."
+    }
+  ]
+}
